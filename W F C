@@ -1,0 +1,2512 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class=" home_page home_page_design s_layout1 isFreePackage ">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"> 
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms-s.f-static.com/" crossorigin="anonymous"/> 
+    <link rel="dns-prefetch preconnect" href="https://cdn-cms.f-static.com/" crossorigin="anonymous"/> 
+    <link rel="dns-prefetch preconnect" href="https://fonts.googleapis.com/" crossorigin="anonymous"/> 
+    <link rel="dns-prefetch preconnect" href="https://fonts.gstatic.com/" crossorigin="anonymous"/>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="//cdn-cms-s.f-static.com/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=v6-n4625" type="image/x-icon">
+    <link rel="icon" href="//cdn-cms-s.f-static.com/manager/site123_website/files/logos/brand_files/favicon-blue.png?v=v6-n4625" type="image/x-icon"> 
+    <!-- Regular Meta Info -->
+    <title>Mohammad Javad Ahmadi
+    </title> 
+    <meta name="description" content="M J Ahmadi"> 
+    <meta name="keywords" content="MJAHMADEE">
+    <link rel="canonical" href="https://mjahmadee.site123.me/" /> 
+    <!-- Facebook Meta Info -->
+    <meta property="og:url" content="https://mjahmadee.site123.me/">
+    <meta property="og:image" content="https://cdn-cms.f-static.com/uploads/609477/800_5bec4903d09d8.jpg">
+    <meta property="og:description" content="M J Ahmadi">
+    <meta property="og:title" content="Mohammad Javad Ahmadi">
+    <meta property="og:site_name" content="MJAHMADEE">
+    <meta property="og:see_also" content="https://mjahmadee.site123.me">
+    <!-- Google+ Meta Info -->
+    <meta itemprop="name" content="Mohammad Javad Ahmadi">
+    <meta itemprop="description" content="M J Ahmadi">
+    <meta itemprop="image" content="https://cdn-cms.f-static.com/uploads/609477/800_5bec4903d09d8.jpg">
+    <!-- Twitter Meta Info -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://mjahmadee.site123.me/">
+    <meta name="twitter:title" content="Mohammad Javad Ahmadi">
+    <meta name="twitter:description" content="M J Ahmadi">
+    <meta name="twitter:image" content="https://cdn-cms.f-static.com/uploads/609477/800_5bec4903d09d8.jpg">    
+    <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/rss.xml" /> 
+    <!-- Custom CSS -->
+    <!-- Minimize CSS files -->
+    <link rel="stylesheet" href="//cdn-cms-s.f-static.com/versions/2/css/minimize.css?v=v6-n4625" type="text/css" crossorigin="anonymous">
+    <link rel="stylesheet" href="//cdn-cms-s.f-static.com/versions/2/css/websiteCSS.css?w=&orderScreen=&websiteID=609477&onlyContent=&tranW=&v=v6-n4625_6428831" class="reloadable-css" type="text/css"> 
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent --> 
+    <script type="text/javascript">        window.cookieconsent_options = {
+        message: "This website uses cookies to ensure you get the best experience on our website",
+        dismiss: "Got it!",
+        learnMore: "More info",
+        theme: '//cdn-cms-s.f-static.com/files/frameworks/cookieconsent-master/build/dark-bottom.css?v=v6-n4625'
+      };
+    </script> 
+    <script type="text/javascript" src="//cdn-cms-s.f-static.com/files/frameworks/cookieconsent-master/build/cookieconsent.min.js?v=v6-n4625" crossorigin="anonymous">
+    </script> 
+    <!-- End Cookie Consent plugin --> 
+  </head>
+  <body id="page-top"> 
+    <div class="body">
+      <div id="websiteHeader"> 
+        <nav id="mainNav" class="hidden-xs navbar-default navbar-fixed-top  opacity-full"> 
+          <div class="site_container"> 
+            <div class="navbar-header"> 
+              <a class="navbar-brand page-scroll logo_name logoStyle_9" href="#page-top"> 
+                <div>
+                  <i class="fa site123-image-icon fa-hashtag">
+                  </i>
+                </div> 
+                <span class="website-name">MJAHMADEE
+                </span> 
+              </a> 
+            </div> 
+            <div id="top-menu"> 
+              <ul class="navPages nav navbar-nav"> 
+                <li class="moduleMenu active">
+                  <a class="page-scroll homepageMenu" href="#page-top">Home
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541eb9b2e8">
+                  <a class="page-scroll" href="#section-599541eb9b2e8">About
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541ebb4734">
+                  <a class="page-scroll" href="#section-599541ebb4734">Timeline
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5a9fbe14f4c0c">
+                  <a class="page-scroll" href="#section-5a9fbe14f4c0c">Projects
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5bd5699a0abcb">
+                  <a class="page-scroll" href="#section-5bd5699a0abcb">Articles
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5a0e981638330">
+                  <a class="page-scroll" href="#section-5a0e981638330">Team
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5996802e39b3d">
+                  <a class="page-scroll" href="#section-5996802e39b3d">My University Professors
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5995511548e7c">
+                  <a class="page-scroll" href="#section-5995511548e7c">Events
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5b507a8bffb33">
+                  <a class="page-scroll" href="#section-5b507a8bffb33">Personal Blog
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5995578f41455">
+                  <a class="page-scroll" href="#section-5995578f41455">Gallery
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5bd31258c5497">
+                  <a class="page-scroll" href="#section-5bd31258c5497">Soundcloud
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5b72764ccccdb">
+                  <a class="page-scroll" href="#section-5b72764ccccdb">Others
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541ebad50e">
+                  <a class="page-scroll" href="#section-599541ebad50e">Contact
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5be33aa221a85">
+                  <a class="page-scroll" href="#section-5be33aa221a85">F.A.Q
+                  </a>
+                </li> 
+              </ul> 
+              <ul class="navActions nav navbar-nav"> 
+                <li class="header-phone-wrapper">
+                  <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="phone_menuCallActionIcons">
+                    <i class="fa fa-phone">
+                    </i>
+                  </a>
+                </li> 
+                <li class="header-address-wrapper">
+                  <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="address_menuCallActionIcons">
+                    <i class="fa fa-location-arrow">
+                    </i>
+                  </a>
+                </li> 
+                <li class="header-social-wrapper ">
+                  <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="social_menuCallActionIcons">
+                    <i class="fa fa-share-alt">
+                    </i>
+                  </a>
+                </li> 
+                <li class="header-search-wrapper">
+                  <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="search_menuCallActionIcons">
+                    <i class="fa fa-search">
+                    </i>
+                  </a>
+                </li> 
+                <!-- Cart --> 
+                <li class="header-cart-wrapper orderOpenCart show-static">
+                  <a id="cartActionButton" class="actionButton btn-primary-action-button-4" role="button">
+                    <i class="fa fa-shopping-cart">
+                      <span class="count">
+                      </span>
+                    </i>
+                  </a>
+                </li> 
+              </ul> 
+            </div> 
+          </div> 
+        </nav> 
+      </div> 
+      <nav id="mainNavMobile" class="navbar-fixed-top"> 
+        <div class="navPagesLeft"> 
+          <div class="header-menu-wrapper">
+            <a data-close-location="left" class="actionButton" role="button" data-container="body" data-toggle="menuCallActionIcons">
+              <i class="fa fa-bars">
+              </i>
+            </a>
+          </div> 
+        </div> 
+        <div class="navbar-header"> 
+          <a class="navbar-brand page-scroll logo_name logoStyle_9" href="#page-top"> 
+            <div>
+              <i class="fa site123-image-icon fa-hashtag">
+              </i>
+            </div> 
+            <span class="website-name">MJAHMADEE
+            </span> 
+          </a> 
+        </div> 
+        <div class="navPagesRight"> 
+          <ul class="navActions nav navbar-nav"> 
+            <li class="header-phone-wrapper">
+              <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="phone_menuCallActionIcons">
+                <i class="fa fa-phone">
+                </i>
+              </a>
+            </li> 
+            <li class="header-address-wrapper">
+              <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="address_menuCallActionIcons">
+                <i class="fa fa-location-arrow">
+                </i>
+              </a>
+            </li> 
+            <li class="header-social-wrapper ">
+              <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="social_menuCallActionIcons">
+                <i class="fa fa-share-alt">
+                </i>
+              </a>
+            </li> 
+            <li class="header-search-wrapper">
+              <a data-close-location="right" class="actionButton" role="button" data-container="body" data-toggle="search_menuCallActionIcons">
+                <i class="fa fa-search">
+                </i>
+              </a>
+            </li> 
+            <!-- Cart --> 
+            <li class="header-cart-wrapper orderOpenCart show-static">
+              <a id="cartActionButton" class="actionButton btn-primary-action-button-4" role="button">
+                <i class="fa fa-shopping-cart">
+                  <span class="count">
+                  </span>
+                </i>
+              </a>
+            </li> 
+          </ul> 
+        </div> 
+      </nav> 
+      <div id="top-menu-mobile" style="display:none;"> 
+        <ul> 
+          <li class="moduleMenu active">
+            <a class="page-scroll homepageMenu" href="#page-top">Home
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="599541eb9b2e8">
+            <a class="page-scroll" href="#section-599541eb9b2e8">About
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="599541ebb4734">
+            <a class="page-scroll" href="#section-599541ebb4734">Timeline
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5a9fbe14f4c0c">
+            <a class="page-scroll" href="#section-5a9fbe14f4c0c">Projects
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5bd5699a0abcb">
+            <a class="page-scroll" href="#section-5bd5699a0abcb">Articles
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5a0e981638330">
+            <a class="page-scroll" href="#section-5a0e981638330">Team
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5996802e39b3d">
+            <a class="page-scroll" href="#section-5996802e39b3d">My University Professors
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5995511548e7c">
+            <a class="page-scroll" href="#section-5995511548e7c">Events
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5b507a8bffb33">
+            <a class="page-scroll" href="#section-5b507a8bffb33">Personal Blog
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5995578f41455">
+            <a class="page-scroll" href="#section-5995578f41455">Gallery
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5bd31258c5497">
+            <a class="page-scroll" href="#section-5bd31258c5497">Soundcloud
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5b72764ccccdb">
+            <a class="page-scroll" href="#section-5b72764ccccdb">Others
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="599541ebad50e">
+            <a class="page-scroll" href="#section-599541ebad50e">Contact
+            </a>
+          </li>
+          <li class="moduleMenu" data-menu-module-id="5be33aa221a85">
+            <a class="page-scroll" href="#section-5be33aa221a85">F.A.Q
+            </a>
+          </li> 
+        </ul> 
+      </div> 
+      <section id="top-section" class="homepage_style_1 fitScreen section-homepage-layout-33 parallax-on">
+        <div class="parallax-window home-image-bg" data-parallax="scroll" data-bleed="30" data-idele="parallax_home_opacity" data-opacity="0.5" data-filter="" data-backgroundcolor="#000000" data-image-src="https://cdn-cms.f-static.com/uploads/609477/2000_5bec4903d09d8.jpg" data-position="center center" data-background-position="center center" style="background-position:center center">
+        </div>
+        <div class="homepage-layout-24 homepage-layout-33 container">
+          <div class="play-home-video-btn">
+            <a id="websitePopupHomeVideo" data-player="youtube" href="https://www.youtube.com/embed/AQdLQV6vhbk?rel=0&showinfo=0&color=white&iv_load_policy=3&enablejsapi=1&autoplay=1" class="iconsCircle iconsCircleSmall" data-allow-external-link="true">
+              <i class="fa fa-play">
+              </i>
+            </a>
+          </div>
+          <h1 id="home_siteSlogan" class="weight700    " >MJAHMADEE
+          </h1>
+          <h2 id="home_siteSlogan_2" class="weight400    " >Mohammad Javad Ahmadi
+          </h2>
+          <p id="home_SecondSiteSlogan" class="weight400    " style="display:none">
+          </p>
+          <div class="homepage_main_buttons">
+            <a id="home_buttonText" onclick="MoveFirstSection(1);" class="btn btn-primary btn-xl btn-primary-transparent">Read More
+            </a>
+            <a id="home_buttonText_1" href="http://1058877.site123.me/" class="btn btn-primary btn-xl btn-primary-transparent" style="display:none" target="_blank">
+            </a>
+          </div>
+        </div>
+      </section>
+      <div id="s123ModulesContainer" class="s123-modules-container">
+        <section id="section-599541eb9b2e8" class="s123-module s123-module-about layout-1 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-599541eb9b2e8-title" class="s123-page-header">About
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-599541eb9b2e8-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row text-center">
+              <div class='col-xs-12'> 
+                <div class="text-center">
+                  <img src="https://cdn-cms.f-static.com/uploads/609477/400_5b6948432e693.jpg" class="img-rounded img-responsive" style="max-height:150px;max-width:80%;display:inline-block;margin:10px;" alt="About" /> 
+                  <img src="https://cdn-cms.f-static.com/uploads/609477/400_5b69483b46a23.jpg" class="img-rounded img-responsive" style="max-height:150px;max-width:80%;display:inline-block;margin:10px;" alt="About" /> 
+                </div> 
+                <div class="responsive-handler fr-view breakable">Student of Electrical Engineering (Control), Amirkabir University of Technology
+                  <br>
+                  <a class="fr-strong" href="https://drive.google.com/open?id=1_Fp0WXWynZ1bl0UZ9-QvS2652nujAak7" rel="noopener noreferrer" target="_blank">CV (Persian)
+                  </a>
+                  <br>
+                  <a class="fr-strong" href="https://www.linkedin.com/in/mjahmadee/" rel="noopener noreferrer" target="_blank">LinkedIn
+                  </a>
+                  <br>
+                  <a class="fr-green fr-strong" href="http://s9.picofile.com/d/8338633834/0dfeae3b-5bd1-4d99-a096-6fbcc92c5156/MJAHMADEE_Prj.pdf" rel="noopener noreferrer" target="_blank">Projects(1)
+                  </a>
+                  <br>
+                  <a class="fr-green fr-strong" href="https://xxiv11658.site123.me/" rel="noopener noreferrer" target="_blank">Projects(2)
+                  </a>
+                  <br>
+                </div> 
+              </div> 
+            </div> 
+          </div>
+        </section>
+        <section id="section-599541ebb4734" class="s123-module s123-module-timeline"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-599541ebb4734-title" class="s123-page-header">Timeline
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-599541ebb4734-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up">
+            <div class="cd-timeline cd-container">
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-university">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Amirkabir University of Technology
+                  </h2>
+                  <p>Bachelor's degree, Electrical and Electronics Engineering
+                  </p>
+                  <a href="/timeline/amirkabir-university-of-technology" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Sep&nbsp;22,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-handshake-o">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Hydroelectric Power Plant Management Center
+                  </h2>
+                  <p>Hydroelectricity is electricity produced from hydropower. In 2015 hydropower generated 16.6% of the world's total electricity and 70% of all renewable electricity, and was expected to increase about 3.1% each year for the next 25 years.
+                  </p>
+                  <a href="/timeline/hydroelectric-power-plant-management-center" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Jul&nbsp;23,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-product-hunt">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Frequency and Voltage Control of the Grid (LFC, AVR)
+                  </h2>
+                  <p>
+                  </p>
+                  <span class="cd-date">Aug&nbsp;28,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-product-hunt">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Simulation Model of Hydro Power Plant
+                  </h2>
+                  <p>
+                  </p>
+                  <span class="cd-date">Aug&nbsp;28,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-header">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Amirkabir Hydro Power Plant
+                  </h2>
+                  <p>
+                  </p>
+                  <span class="cd-date">Aug&nbsp;21,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-podcast">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Creating Real-Time Operation System Based on xPC Target Kernel
+                  </h2>
+                  <p>MATLAB/SIMULINK and xPC Target (Real-Time)
+                  </p>
+                  <span class="cd-date">Jul&nbsp;12,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-product-hunt">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Smart Farm
+                  </h2>
+                  <p>IoT
+                  </p>
+                  <a href="/timeline/smart-farm" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Feb&nbsp;20,&nbsp;2018
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-question-circle">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Nationwide University Entrance Exams
+                  </h2>
+                  <p>Rank 289 (Mathematics and Physics)
+                  </p>
+                  <span class="cd-date">Jun&nbsp;11,&nbsp;2015
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary bg-primary" style="background:#165c0f;color:#ffffff;">
+                  <i class="fa site123-image-icon fa-moon-o">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Sharia
+                  </h2>
+                  <p>Sharia  National Tournament (4th)
+                  </p>
+                  <span class="cd-date">Sep&nbsp;06,&nbsp;2013
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary background-primary-color" style=";color:#ffffff;">
+                  <i class="fa site123-image-icon fa-users">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Shahid Beheshti 2 Sari (NODET)
+                  </h2>
+                  <p>Diploma in Mathematics and Physics (Average: 20/20)
+                  </p>
+                  <span class="cd-date">Sep&nbsp;23,&nbsp;2011
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary bg-primary" style="background:#fafafa;color:#333333;">
+                  <i class="fa site123-image-icon fa-users">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Hadaf
+                  </h2>
+                  <p>
+                  </p>
+                  <a href="/timeline/hadaf" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Sep&nbsp;23,&nbsp;2010
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary bg-primary" style="background:;color:;">
+                  <i class="fa site123-image-icon fa-users">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Middle School
+                  </h2>
+                  <p>
+                  </p>
+                  <a href="/timeline/middle-school" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Sep&nbsp;22,&nbsp;2008
+                  </span>
+                </div>
+              </div>
+              <div class="cd-timeline-block">
+                <div class="cd-timeline-img text-primary bg-primary" style="background:;color:;">
+                  <i class="fa site123-image-icon fa-users">
+                  </i>
+                </div>
+                <div class="cd-timeline-content box-primary">
+                  <h2>Mehregan &amp;  Shahid Allameh
+                  </h2>
+                  <p>
+                  </p>
+                  <a href="/timeline/mehregan-shahid-allameh" class="modules-data-model cd-read-more btn btn-primary" data-rel="popupScreen">Learn More
+                  </a>
+                  <span class="cd-date">Sep&nbsp;23,&nbsp;2003
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="section-5a9fbe14f4c0c" class="s123-module s123-module-blogs layout-7 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5a9fbe14f4c0c-title" class="s123-page-header">Projects
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5a9fbe14f4c0c-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up">
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="blog-module box-primary">
+                  <a href="/projects/frequency-and-voltage-control-of-the-grid-lfc-avr"   data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/1600_5baa74344ab8c.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/frequency-and-voltage-control-of-the-grid-lfc-avr" class="modules-data-model " data-rel="popupScreen">Frequency and Voltage Control of the Grid (LFC, AVR)
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>08/28/2018 09:00
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row"> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/sim-model-of-hpp"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5bd1e887510b0.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/sim-model-of-hpp" class="modules-data-model " data-rel="popupScreen">Sim Model of HPP
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">Simulation Model of Hydro Power Plant
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>08/28/2018 07:00
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/smart-farm"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5a9fbf2f7787b.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/smart-farm" class="modules-data-model " data-rel="popupScreen">Smart Farm
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">IoT
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                        <a href="/projects/smart-farm" class="modules-data-model more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>07/15/2018 11:28
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/computer-control-lab"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5bd1dd444abf3.png);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/computer-control-lab" class="modules-data-model " data-rel="popupScreen">Computer Control Lab
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">MATLAB/SIMULINK and xPC Target
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                        <a href="/projects/computer-control-lab" class="modules-data-model more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>07/12/2018 11:28
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/computer-architecture"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5b50779ec3359.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/computer-architecture" class="modules-data-model " data-rel="popupScreen">Computer Architecture
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">Assembly - keil 4.7
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                        <a href="/projects/computer-architecture" class="modules-data-model more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>07/10/2018 11:33
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/linear-algebra"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5b5077eadc341.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/linear-algebra" class="modules-data-model " data-rel="popupScreen">Linear Algebra
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">MIMO CS - MATLAB &amp; Simulink
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                        <a href="/projects/linear-algebra" class="modules-data-model more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>07/08/2018 11:31
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+              <div class="blog-m-container col-md-4 col-sm-6 col-xs-12"> 
+                <div class="blog-module box-primary">
+                  <a href="/projects/linear-control"  data-rel="popupScreen">
+                    <div class="blog-module-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/800_5a9fc02bdbd1b.jpg);">
+                    </div>
+                  </a>
+                  <div class="blog-module-details">
+                    <div class="blog-module-title">
+                      <h3>
+                        <a href="/projects/linear-control" class="modules-data-model " data-rel="popupScreen">Linear Control
+                        </a>
+                      </h3>
+                    </div> 
+                    <div class="blog-module-content">
+                      <p class="breakable">Matlab
+                      </p>
+                    </div>
+                    <ul class="blog-module-meta clearfix">
+                      <div class="blog-module-bt">
+                      </div>
+                      <li>
+                        <i class="fa fa-clock-o">
+                        </i>12/22/2017 00:00
+                      </li>
+                    </ul>
+                  </div>
+                </div> 
+              </div> 
+            </div> 
+            <div class="row">
+              <div class='col-sm-12 text-center'>
+                <a href="projects">See more
+                </a>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="section-5bd5699a0abcb" class="s123-module s123-module-articles layout-1"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5bd5699a0abcb-title" class="s123-page-header">Articles
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5bd5699a0abcb-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row">
+              <div class="clearfix">
+                <div class="ipost col-sm-6 bottommargin clearfix">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="article-image">
+                        <img class="lazyload" data-src="https://cdn-cms.f-static.com/uploads/609477/400_5bd5758788da0.jpg" alt="Creating Real-Time Operation System Based on xPC Target Kernel">
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="article-title">
+                        <h3 class="t400" style="font-size: 22px;">Creating Real-Time Operation System Based on xPC Target Kernel
+                        </h3>
+                      </div>
+                      <div class="breakable">
+                        <p class="article-description">
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+                <div class="ipost col-sm-6 bottommargin clearfix">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="article-image">
+                        <a href="/articles/frequency-and-voltage-control-of-the-grid-lfc-avr" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="https://cdn-cms.f-static.com/uploads/609477/400_5bd56fab4dddc.jpg" alt="Frequency and Voltage Control of the Grid (LFC, AVR)">
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="article-title">
+                        <h3 class="t400" style="font-size: 22px;">
+                          <a href="/articles/frequency-and-voltage-control-of-the-grid-lfc-avr" class="modules-data-model " data-rel="popupScreen">Frequency and Voltage Control of the Grid (LFC, AVR)
+                          </a>
+                        </h3>
+                      </div>
+                      <div class="breakable">
+                        <p class="article-description">
+                        </p>
+                        <a href="/articles/frequency-and-voltage-control-of-the-grid-lfc-avr" class="modules-data-model article-more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div> 
+              <div class="clearfix">
+                <div class="ipost col-sm-6 bottommargin clearfix">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="article-image">
+                        <a href="/articles/simulation-model-of-hydro-power-plant" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="https://cdn-cms.f-static.com/uploads/609477/400_5bd57008e5c0e.png" alt="Simulation Model of Hydro Power Plant">
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="article-title">
+                        <h3 class="t400" style="font-size: 22px;">
+                          <a href="/articles/simulation-model-of-hydro-power-plant" class="modules-data-model " data-rel="popupScreen">Simulation Model of Hydro Power Plant
+                          </a>
+                        </h3>
+                      </div>
+                      <div class="breakable">
+                        <p class="article-description">
+                        </p>
+                        <a href="/articles/simulation-model-of-hydro-power-plant" class="modules-data-model article-more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+                <div class="ipost col-sm-6 bottommargin clearfix">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <div class="article-image">
+                        <a href="/articles/amirkabir-hpp" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="https://cdn-cms.f-static.com/uploads/609477/400_5bd570ff0b14c.jpg" alt="Amirkabir HPP">
+                        </a>
+                      </div>
+                    </div>
+                    <div class="col-md-6">
+                      <div class="article-title">
+                        <h3 class="t400" style="font-size: 22px;">
+                          <a href="/articles/amirkabir-hpp" class="modules-data-model " data-rel="popupScreen">Amirkabir HPP
+                          </a>
+                        </h3>
+                      </div>
+                      <div class="breakable">
+                        <p class="article-description">
+                        </p>
+                        <a href="/articles/amirkabir-hpp" class="modules-data-model article-more-link" data-rel="popupScreen">Read More 
+                          <i class="fa fa-angle-right">
+                          </i>
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div> 
+            </div> 
+          </div>
+        </section>
+        <section id="section-5a0e981638330" class="s123-module s123-module-team layout-2 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5a0e981638330-title" class="s123-page-header">Team
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5a0e981638330-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row text-center">
+              <div class="col-md-3 col-sm-6 team-member-wrap col-centered">
+                <div class="team-member">
+                  <div class="team-image" style="background-image:url(//cdn-cms.f-static.com/uploads/609477/400_5a0e9895444b9.jpg);">
+                  </div>
+                  <div class="team-details">
+                    <div>
+                      <h4 class="member-name">M J Ahmadi
+                      </h4>
+                    </div>
+                    <div>
+                      <p>
+                      </p>
+                    </div>
+                    <ul class="social">
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 team-member-wrap col-centered">
+                <div class="team-member">
+                  <div class="team-image" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/400_5a9fc65ebf589.jpg);">
+                  </div>
+                  <div class="team-details">
+                    <div>
+                      <h4 class="member-name">M H Amini
+                      </h4>
+                    </div>
+                    <div>
+                      <p>
+                      </p>
+                    </div>
+                    <ul class="social">
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 team-member-wrap col-centered">
+                <div class="team-member">
+                  <div class="team-image" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/400_5b6d480047a38.png);">
+                  </div>
+                  <div class="team-details">
+                    <div>
+                      <h4 class="member-name">S R Hashemirad
+                      </h4>
+                    </div>
+                    <div>
+                      <p>
+                      </p>
+                    </div>
+                    <ul class="social">
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-3 col-sm-6 team-member-wrap col-centered">
+                <div class="team-member">
+                  <div class="team-image" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/400_5b6d4793a5ea9.jpg);">
+                  </div>
+                  <div class="team-details">
+                    <div>
+                      <h4 class="member-name">AHZ &amp; Abbas
+                      </h4>
+                    </div>
+                    <div>
+                      <p>
+                      </p>
+                    </div>
+                    <ul class="social">
+                    </ul>
+                  </div>
+                </div>
+              </div> 
+            </div> 
+          </div>
+        </section>
+        <section id="section-5996802e39b3d" class="s123-module s123-module-testimonials layout-1"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5996802e39b3d-title" class="s123-page-header">My University Professors
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5996802e39b3d-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row"> 
+              <div class='col-xs-12'>
+                <div data-ride="carousel" class="carousel slide">
+                  <!-- Bottom Carousel Indicators -->
+                  <ol class="carousel-indicators">
+                    <li data-slide-to="0" class="active">
+                    </li>
+                    <li data-slide-to="1" class="">
+                    </li>
+                    <li data-slide-to="2" class="">
+                    </li>
+                    <li data-slide-to="3" class="">
+                    </li>
+                    <li data-slide-to="4" class="">
+                    </li>
+                    <li data-slide-to="5" class="">
+                    </li>
+                    <li data-slide-to="6" class="">
+                    </li>
+                    <li data-slide-to="7" class="">
+                    </li>
+                  </ol>
+                  <!-- Carousel Slides / Quotes -->
+                  <div class="carousel-inner">
+                    <div class="item active">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Dr. Iman Sharifi" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5a9fcbc7e3adc.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Instrumentation
+                              Instrumentation Score: 20 out of 20.
+                              Instrumentation Lab Score: 20 out of 20
+                            </p>
+                            <small>
+                              <strong>Dr. Iman Sharifi:&nbsp;
+                              </strong>
+                              <span>University of Alberta, Edmonton, Canada and Amirkabir University of Technology, Tehran, Iran
+                              </span>
+                              <span>,&nbsp;
+                              </span>
+                              <a href="http://isharifi.ir/teaching/2018/Instrumentation.htm" target="_blank">Instrumentation
+                              </a>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Professor Heidar Ali Talebi" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5b59a52c63950.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Computer Control
+                              Computer Control  Lab  Score: 20 out of 20.
+                            </p>
+                            <small>
+                              <strong>Professor Heidar Ali Talebi
+                              </strong>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Dr. Mohammad A. Khosravi" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5a9fcaa79028b.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Linear Control
+                            </p>
+                            <small>
+                              <strong>Dr. Mohammad A. Khosravi:&nbsp;
+                              </strong>
+                              <span>Assistant Professor, Amirkabir University of Technology
+                              </span>
+                              <span>,&nbsp;
+                              </span>
+                              <a href="http://ee.aut.ac.ir/autcms/people/verticalPagesAjax/professorHomePage.htm?url=khosravi&amp;depurl=electrical-engineering&amp;lang=fa&amp;cid=912659" target="_blank">Dr. Mohammad A. Khosravi
+                              </a>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Mahdi Karrari" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5bb0a1642b4af.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Electric Circuits I
+                            </p>
+                            <small>
+                              <strong>Mahdi Karrari:&nbsp;
+                              </strong>
+                              <span>Professor at control group in Electrical Engineering Department, Amirkabir University.
+                              </span>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Prof. Gevork B. Gharehpetian" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5a9fcd30c742a.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Electrical Machines II
+                              Electrical Machines II: (A) - Final Score: 98 out of 100.
+                            </p>
+                            <small>
+                              <strong>Prof. Gevork B. Gharehpetian
+                              </strong>
+                              <span>,&nbsp;
+                              </span>
+                              <a href="http://ele.aut.ac.ir/~gharehpetian/" target="_blank">Prof. Gevork B. Gharehpetian
+                              </a>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Professor Mehrdad Abedi" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5b6d4b722268e.jpeg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Electric Circuits II,  Electrical Machines I, Power System Analysis
+                              Power System Analysis Score: 19 out of 20.
+                            </p>
+                            <small>
+                              <strong>Professor Mehrdad Abedi
+                              </strong>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Professor Hamidreza Amindavar" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5a9fce1444333.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Signals and Systems
+                            </p>
+                            <small>
+                              <strong>Professor Hamidreza Amindavar:&nbsp;
+                              </strong>
+                              <span>Professor of Electrical Engineering, Amirkabir University of Technology, Tehran, Iran
+                              </span>
+                              <span>,&nbsp;
+                              </span>
+                              <a href="http://www.aut.ac.ir/official/main.asp?uid=hamidami" target="_blank">Professor Hamidreza Amindavar
+                              </a>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                    <div class="item ">
+                      <blockquote>
+                        <div class="row">
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-3 text-center">
+                            <img alt="Others!" class="img-circle" src="https://cdn-cms.f-static.com/uploads/609477/400_5bec4d956adb2.jpg">
+                          </div>
+                          <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-9"> 
+                            <p>Others!
+                              Linear Algebra Score: 19.8 out of 20.
+                              Linear Control, Electrical Machine Lab: 20 out of 20.
+                              Logic Circuits Lab: 19.75 out of 20.
+                            </p>
+                            <small>
+                              <strong>Others!
+                              </strong>
+                            </small>
+                          </div>
+                        </div>
+                      </blockquote>
+                    </div>
+                  </div>
+                  <!-- Carousel Buttons Next/Prev -->
+                  <a href="javascript:void(0);" class="carousel-control left">
+                    <i class="fa fa-chevron-left">
+                    </i>
+                  </a>
+                  <a href="javascript:void(0);" class="carousel-control right">
+                    <i class="fa fa-chevron-right">
+                    </i>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="section-5995511548e7c" class="s123-module s123-module-events layout-1 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5995511548e7c-title" class="s123-page-header">Events
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5995511548e7c-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row"> 
+              <div class="s123-categories col-xs-12" style="display:none;"> 
+                <div class="categories-panel"> 
+                  <ul class="events-categories-container"> 
+                    <li data-categories-filter="past-events">
+                      <a href="#">Past Events
+                      </a>
+                    </li> 
+                  </ul> 
+                </div> 
+              </div> 
+            </div> 
+            <div class="row"> 
+              <div class="events-container col-sm-12"> 
+                <div data-event-filter="past-events"> 
+                  <div class="events"> 
+                    <div class="event clearfix box-primary"> 
+                      <div class="event-image"> 
+                        <a href="/events/icrom-2018" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="https://cdn-cms.f-static.com/uploads/609477/800_5bd1ed47f11e9.jpg">
+                          <div class="event-date">23
+                            <span>Oct
+                            </span>
+                          </div>
+                        </a> 
+                      </div> 
+                      <div class="event-details"> 
+                        <div class="event-title"> 
+                          <h2>
+                            <a href="/events/icrom-2018" class="modules-data-model " data-rel="popupScreen">ICROM 2018
+                            </a>
+                          </h2> 
+                        </div> 
+                        <ul class="event-meta clearfix"> 
+                          <li>
+                            <i class="fa fa-clock-o">
+                            </i>10/23/2018 09:00
+                          </li> 
+                          <li>
+                            <i class="fa fa-map-marker">
+                            </i> استان تهران، تهران، دانشگاه علم و صنعت، ایران
+                          </li> 
+                        </ul> 
+                        <div class="event-content"> 
+                          <p>
+                          </p> 
+                          <a href="/events/icrom-2018" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                          </a> 
+                        </div> 
+                      </div> 
+                    </div> 
+                    <div class="event clearfix box-primary"> 
+                      <div class="event-image"> 
+                        <a href="/events/icrom-2017" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="//cdn-cms.f-static.com/uploads/609477/800_5a0e962cab5e4.jpg">
+                          <div class="event-date">25
+                            <span>Oct
+                            </span>
+                          </div>
+                        </a> 
+                      </div> 
+                      <div class="event-details"> 
+                        <div class="event-title"> 
+                          <h2>
+                            <a href="/events/icrom-2017" class="modules-data-model " data-rel="popupScreen">ICROM 2017
+                            </a>
+                          </h2> 
+                        </div> 
+                        <ul class="event-meta clearfix"> 
+                          <li>
+                            <i class="fa fa-clock-o">
+                            </i>10/25/2017 08:00
+                          </li> 
+                          <li>
+                            <i class="fa fa-map-marker">
+                            </i> Amirkabir University of Technology, Tehran
+                          </li> 
+                        </ul> 
+                        <div class="event-content"> 
+                          <p>
+                          </p> 
+                          <a href="/events/icrom-2017" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                          </a> 
+                        </div> 
+                      </div> 
+                    </div> 
+                    <div class="event clearfix box-primary"> 
+                      <div class="event-image"> 
+                        <a href="/events/ethics-and-the-engineer" class="modules-data-model " data-rel="popupScreen">
+                          <img class="lazyload" data-src="//cdn-cms.f-static.com/uploads/609477/800_599f1f8ac150a.jpg">
+                          <div class="event-date">16
+                            <span>Sep
+                            </span>
+                          </div>
+                        </a> 
+                      </div> 
+                      <div class="event-details"> 
+                        <div class="event-title"> 
+                          <h2>
+                            <a href="/events/ethics-and-the-engineer" class="modules-data-model " data-rel="popupScreen">Ethics and the Engineer
+                            </a>
+                          </h2> 
+                        </div> 
+                        <ul class="event-meta clearfix"> 
+                          <li>
+                            <i class="fa fa-clock-o">
+                            </i>09/16/2017 08:00
+                          </li> 
+                          <li>
+                            <i class="fa fa-map-marker">
+                            </i> Tehran, Amirkabir University of Technology
+                          </li> 
+                        </ul> 
+                        <div class="event-content"> 
+                          <p>The course will be provided by the Department of Values, Technology and innovation at the Faculty of Technology, Policy and Management, Delft University of Technology. This group takes a world-leading position in teaching and developing ‘engineering ethics’ courses and modules. The course will be taught partly in Persian partly in English. There will be translation provided for the English parts.
+                          </p> 
+                          <a href="/events/ethics-and-the-engineer" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                          </a> 
+                        </div> 
+                      </div> 
+                    </div> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div>
+        </section>
+        <section id="section-5b507a8bffb33" class="s123-module s123-module-blogs layout-4">
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5b507a8bffb33-title" class="s123-page-header">Personal Blog
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5b507a8bffb33-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up">
+            <div class="blog-m clearfix box-primary">
+              <a href="/personal-blog/what-is-our-mission"  data-rel="popupScreen">
+                <div class="blog-m-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/1600_5bd95e27d6e0e.jpg);">
+                </div>
+              </a>
+              <div class="blog-m-details">
+                <div class="blog-m-title">
+                  <h3>
+                    <a href="/personal-blog/what-is-our-mission" class="modules-data-model " data-rel="popupScreen">What is our mission?
+                    </a>
+                  </h3>
+                </div> 
+                <ul class="blog-m-meta clearfix"> 
+                  <li>
+                    <i class="fa fa-clock-o">
+                    </i>10/01/2018 04:00
+                  </li> 
+                </ul>
+                <div class="blog-m-content breakable">
+                  <p>
+                  </p>
+                  <div class="blog-m-bt">
+                    <a href="/personal-blog/what-is-our-mission" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="blog-m clearfix box-primary">
+              <a href="/personal-blog/digital-control-lab"  data-rel="popupScreen">
+                <div class="blog-m-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/1600_5b507bae46c52.jpg);">
+                </div>
+              </a>
+              <div class="blog-m-details">
+                <div class="blog-m-title">
+                  <h3>
+                    <a href="/personal-blog/digital-control-lab" class="modules-data-model " data-rel="popupScreen">Digital Control Lab
+                    </a>
+                  </h3>
+                </div> 
+                <ul class="blog-m-meta clearfix"> 
+                  <li>
+                    <i class="fa fa-clock-o">
+                    </i>07/10/2018 16:20
+                  </li> 
+                </ul>
+                <div class="blog-m-content breakable">
+                  <p>
+                  </p>
+                  <div class="blog-m-bt">
+                    <a href="/personal-blog/digital-control-lab" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="blog-m clearfix box-primary">
+              <a href="/personal-blog/-1"  data-rel="popupScreen">
+                <div class="blog-m-bg" style="background-image:url(https://cdn-cms.f-static.com/uploads/609477/1600_5bd95f9dd4303.jpg);">
+                </div>
+              </a>
+              <div class="blog-m-details">
+                <div class="blog-m-title">
+                  <h3>
+                    <a href="/personal-blog/-1" class="modules-data-model " data-rel="popupScreen">:)
+                    </a>
+                  </h3>
+                </div> 
+                <ul class="blog-m-meta clearfix"> 
+                  <li>
+                    <i class="fa fa-clock-o">
+                    </i>10/31/2015 06:00
+                  </li> 
+                </ul>
+                <div class="blog-m-content breakable">
+                  <p>
+                  </p>
+                  <div class="blog-m-bt">
+                    <a href="/personal-blog/-1" class="modules-data-model btn btn-primary" data-rel="popupScreen">Read More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="section-5995578f41455" class="s123-module s123-module-gallery layout-6 bg-primary">
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5995578f41455-title" class="s123-page-header">Gallery
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5995578f41455-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div>
+          <div class="container" data-aos="fade-up">
+            <div class="row text-center">
+              <div class="s123-categories col-xs-12" style="display:none;">
+                <ul class="filter">
+                  <li data-filter="album">
+                    <a href="#">Album
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="container isotope-gallery-container">
+            <div class="gallery-images-container" data-filter="s123-g-show-all">
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d436673354.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d420131357.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558202dda7.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb981d2e85.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5a0e9463d7398.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995587009015.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_59955895377b8.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d42d924eff.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb93a52373.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d42943da7f.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea45ec7c3.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb9423ff81.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995583beea00.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558c62e63a.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_59955884d45a1.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995585705452.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea336555e.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea00f2e70.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1e9edb6a74.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1e9e45470c.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb94e1c1c5.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5a0e94b2e7a9e.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558dc9a4e2.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558ab78874.jpg" alt="" />
+              </div>
+            </div>
+            <p class="gallery-image-caption" data-filter="s123-g-show-all">
+            </p>
+            <div class="gallery-images-container" data-filter="album">
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4367f0ea2&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d436673354.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d420187236&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d420131357.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-59955820b52af&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558202dda7.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb982a9b8d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb981d2e85.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94641090e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5a0e9463d7398.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558706982e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995587009015.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558963a626&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_59955895377b8.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d42d98f9bc&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d42d924eff.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb93aa1e6f&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb93a52373.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5b6d4294ed03e&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5b6d42943da7f.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea46676f1&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea45ec7c3.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb942955a1&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb9423ff81.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995583c8185f&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995583beea00.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558c71f69d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558c62e63a.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995588552ec9&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_59955884d45a1.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5995585793bce&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5995585705452.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea33b0e48&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea336555e.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1ea02887b3&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1ea00f2e70.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9ee3644a&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1e9edb6a74.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5bd1e9e4b84b4&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5bd1e9e45470c.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a9fb94e6fbe8&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="https://cdn-cms.f-static.com/uploads/609477/2000_5a9fb94e1c1c5.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-5a0e94b32661d&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_5a0e94b2e7a9e.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558dd122a8&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558dc9a4e2.jpg" alt="" />
+              </div>
+              <div class="gallery-image" data-caption="&lt;div class=&quot;gallery-image-text&quot;&gt;&lt;/div&gt;&lt;div class=&quot;gallery-social-links&quot;&gt;
+                                                       &lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;t=Gallery&quot; title=&quot;Share on Facebook&quot; target=&quot;_blank&quot;&gt;&lt;i class=&quot;fa fa-facebook&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://twitter.com/intent/tweet?source=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;text=Gallery:%20https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&quot; target=&quot;_blank&quot; title=&quot;Tweet&quot;&gt;&lt;i class=&quot;fa fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;a href=&quot;https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fmjahmadee.site123.me%2Fgallery%2Fitem-id-599558abd6015&amp;description=Gallery&quot; target=&quot;_blank&quot; title=&quot;Pin it&quot;&gt;&lt;i class=&quot;fa fa-pinterest&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+                                                       &lt;/div&gt;">
+                <img data-flickity-lazyload="//cdn-cms.f-static.com/uploads/609477/2000_599558ab78874.jpg" alt="" />
+              </div>
+            </div>
+            <p class="gallery-image-caption" data-filter="album">
+            </p>
+          </div>
+        </section>
+        <section id="section-5bd31258c5497" class="s123-module s123-module-soundcloud"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5bd31258c5497-title" class="s123-page-header">Soundcloud
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5bd31258c5497-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row text-center"> 
+              <div class="col-xs-12"> 
+                <iframe class="iframe" width="100%" height="465" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https://soundcloud.com/mjahmadee/sets/mjahmadee&auto_play=false&buying=true&liking=true&download=true&sharing=true&show_artwork=true&show_comments=true&show_playcount=true&show_user=true&hide_related=false&visual=true&start_track=0&callback=true">
+                </iframe> 
+              </div> 
+            </div> 
+          </div>
+        </section>
+        <section id="section-5b72764ccccdb" class="s123-module s123-module-carousel layout-1 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5b72764ccccdb-title" class="s123-page-header">Others
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5b72764ccccdb-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row text-center"> 
+              <div class="col-md-12 center">
+                <div class="owl-carousel owl-theme mt-xl" data-plugin-options='{"items": 5, "autoplay": true, "autoplayTimeout": 3000, "center": true, "margin": 10, "loop": true }'>
+                  <div>
+                    <a href="http://emam.com/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5bcccc7da26b1.jpg" alt="Imam Khomeini" title="Imam Khomeini">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://www.khamenei.ir/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5bcccacdb907d.png" alt="Ayatollah Seyed Ali Khamenei" title="Ayatollah Seyed Ali Khamenei">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://dolat.ir/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b7277a5235e6.jpg" alt="Official website of the Government of the IR.IRAN" title="Official website of the Government of the IR.IRAN">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://www.msrt.ir/en" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5bb09cc5c6b18.jpg" alt="Ministry od Science, Research and Technology" title="Ministry od Science, Research and Technology">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://aut.ac.ir/aut/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b727c0b6ab6b.png" alt="Amirkabir University of Technology - Tehran Polytechnic" title="Amirkabir University of Technology - Tehran Polytechnic">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://www.defanews.ir/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b727a94921da.png" alt="Ministry of Defence and Armed Forces Logistics (Iran)" title="Ministry of Defence and Armed Forces Logistics (Iran)">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://www.sepahnews.com/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b727b08b9571.png" alt="Islamic Revolutionary Guard Corps (IRGC)" title="Islamic Revolutionary Guard Corps (IRGC)">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://www.ari.ac.ir/index.php/en/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b727a415e477.jpg" alt="ARI" title="ARI">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://barghabi.wrm.ir/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5bb09cad24ac2.jpg" alt="Hydroelectric Power Plant Management Center" title="Hydroelectric Power Plant Management Center">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="http://isharifi.ir/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b7276958d55d.jpg" alt="Dr. Iman Sharifi" title="Dr. Iman Sharifi">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://mjahmadi.site123.me/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5b727de73343e.jpg" alt="People's Communication Unit" title="People's Communication Unit">
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://xxiv11658.site123.me/" target="_blank">
+                      <img class="img-responsive" src="https://cdn-cms.f-static.com/uploads/609477/400_5bdb1ea02d4b1.jpg" alt="Projects" title="Projects">
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- /.row -->
+          </div>
+          <!-- /.container -->
+        </section>
+        <section id="section-599541ebad50e" class="s123-module s123-module-contact layout-1"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-599541ebad50e-title" class="s123-page-header">Contact
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-599541ebad50e-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row text-center"> 
+              <div class="col-md-5" style="text-align: center;"> 
+                <ul class="list-unstyled"> 
+                  <li>Tehran, Amirkabir University of Technology
+                  </li> 
+                  <li>https://goo.gl/eLewf7 :ارتباط رودررو
+                  </li> 
+                </ul> 
+                <ul class="list-unstyled"> 
+                  <li> 
+                    <a dir="ltr" href="tel:+989338733747"> 
+                      <i class="fa fa-phone fa-fw">
+                      </i>                +989338733747                            
+                    </a> 
+                  </li> 
+                  <li>
+                    <i class="fa fa-envelope-o fa-fw">
+                    </i> 
+                    <a href="mailto:m.j.a@aut.ac.ir">m.j.a@aut.ac.ir
+                    </a>
+                  </li> 
+                </ul> 
+              </div> 
+              <form class="contactUsForm " data-thanks-msg="I have received your message and would like to thank you for writing to me. If your inquiry is urgent, please use the telephone number listed below. Otherwise, I will reply by email as soon as possible. Talk to you soon, Mohammad Javad Ahmadi"> 
+                <div class="col-md-6 col-md-offset-1"> 
+                  <div class="row"> 
+                    <div class="col-md-6"> 
+                      <div class="form-group"> 
+                        <input type="text" name="contact_name" placeholder="Name" class="form-control" required data-msg-required="This field is required."> 
+                      </div> 
+                    </div> 
+                    <div class="col-md-6"> 
+                      <div class="form-group"> 
+                        <input type="text" name="contact_phone" placeholder="Phone" class="form-control"> 
+                      </div> 
+                    </div> 
+                  </div> 
+                  <div class="form-group"> 
+                    <input type="text" name="contact_email" placeholder="Email address" class="form-control" required data-msg-required="This field is required." data-rule-email="true" data-msg-email="Please enter a valid email."> 
+                  </div> 
+                  <div class="form-group"> 
+                    <textarea class="form-control" name="contact_message" placeholder="Message" style="min-height: 100px;">
+                    </textarea> 
+                  </div> 
+                  <button type="submit" class="btn btn-primary btn-block">Contact Us
+                  </button> 
+                </div> 
+                <input type="hidden" name="w" value=""> 
+                <input type="hidden" name="websiteID" value="609477"> 
+                <input type="hidden" name="moduleID" value="599541ebad50e"> 
+                <input type="hidden" name="layout" value="1"> 
+              </form> 
+            </div> 
+          </div> 
+          <div class="s123-module-contact-map"> 
+            <iframe id="5bed55457febf" class="map-container iframeLazyload" data-src="/include/globalMapDisplay.php?q=Tehran%2C+Amirkabir+University+of+Technology&z=15&l=en" frameborder="0">
+            </iframe> 
+          </div> 
+        </section>
+        <section id="section-5be33aa221a85" class="s123-module s123-module-faq layout-2 bg-primary"> 
+          <div data-aos="fade-up" class="container-fluid page_header_style page_header_style_">
+            <div class="row">
+              <div class="container">
+                <div class="row modulesTitle">
+                  <div class="col-xs-12 text-center"> 
+                    <H2 id="section-5be33aa221a85-title" class="s123-page-header">F.A.Q
+                    </H2> 
+                    <hr class="small"> 
+                    <h4 id="section-5be33aa221a85-slogan">
+                    </h4> 
+                  </div> 
+                </div> 
+              </div> 
+            </div> 
+          </div> 
+          <div class="container" data-aos="fade-up"> 
+            <div class="row"> 
+              <div class="col-lg-12 col-md-12 col-sm-12"> 
+                <div class="panel-group" id="accordion-845525631" role="tablist" aria-multiselectable="true"> 
+                  <div class="panel panel-default" style="background-color: transparent;"> 
+                    <div class="panel-heading box-primary" style="cursor:pointer" data-toggle="collapse" data-target="#question-845525631" data-parent="#accordion-845525631" role="tab" id="question-head-845525631"> 
+                      <h4 class="panel-title">Website Source Code
+                      </h4> 
+                    </div> 
+                    <div id="question-845525631" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question-head-845525631"> 
+                      <div class="panel-body responsive-handler fr-view breakable"> 
+                        <a class="fr-green fr-strong" href="https://support-mjahmadee.site123.me/source-code/website-source-code" rel="noopener noreferrer" target="_blank">Website Source Code
+                        </a> 
+                      </div> 
+                    </div> 
+                  </div> 
+                </div> 
+                <div class="panel-group" id="accordion-845525632" role="tablist" aria-multiselectable="true"> 
+                  <div class="panel panel-default" style="background-color: transparent;"> 
+                    <div class="panel-heading box-primary" style="cursor:pointer" data-toggle="collapse" data-target="#question-845525632" data-parent="#accordion-845525632" role="tab" id="question-head-845525632"> 
+                      <h4 class="panel-title">Who is MJAHMADEE?
+                      </h4> 
+                    </div> 
+                    <div id="question-845525632" class="panel-collapse collapse" role="tabpanel" aria-labelledby="question-head-845525632"> 
+                      <div class="panel-body responsive-handler fr-view breakable"> 
+                        <a class="fr-strong" href="https://mjahmadi.site123.me/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%AA%D8%B1/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%DB%8C%D8%B4-%D8%AA%D8%B1-%D8%A8%D8%A7-%D9%85%D9%86" rel="noopener noreferrer" target="_blank">Who is MJAHMADEE?
+                        </a> 
+                      </div> 
+                    </div> 
+                  </div> 
+                </div> 
+              </div> 
+            </div>
+            <!-- /.row --> 
+          </div>
+          <!-- /.container -->
+        </section>
+      </div>
+      <footer class="global_footer footer_1"> 
+        <div class="container"> 
+          <div class="row"> 
+            <div class="side1 col-xs-12 col-sm-6 col-md-6"> 
+              <div> 
+                <span class="footer_name">MJAHMADEE
+                </span> 
+              </div> 
+              <div>                                Copyright © 2018 All rights reserved
+              </div>
+              <div style="margin:5px 0;">
+                <a href="/terms" class="modules-data-model " data-rel="popupScreen">Terms
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="/privacy" class="modules-data-model " data-rel="popupScreen">Privacy
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;
+              </div>
+              <div class="clearfix">Powered By 
+                <a target="_blank" href="https://www.site123.com">SITE123
+                </a> - 
+                <a target="_blank" href="https://www.site123.com">Website maker
+                </a>
+              </div>
+            </div> 
+            <div class="side2 col-xs-12 col-sm-6 col-md-6"> 
+              <ul class="navPages nav navbar-nav hidden-xs"> 
+                <li class="moduleMenu active">
+                  <a class="page-scroll homepageMenu" href="#page-top">Home
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541eb9b2e8">
+                  <a class="page-scroll" href="#section-599541eb9b2e8">About
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541ebb4734">
+                  <a class="page-scroll" href="#section-599541ebb4734">Timeline
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5a9fbe14f4c0c">
+                  <a class="page-scroll" href="#section-5a9fbe14f4c0c">Projects
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5bd5699a0abcb">
+                  <a class="page-scroll" href="#section-5bd5699a0abcb">Articles
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5a0e981638330">
+                  <a class="page-scroll" href="#section-5a0e981638330">Team
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5996802e39b3d">
+                  <a class="page-scroll" href="#section-5996802e39b3d">My University Professors
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5995511548e7c">
+                  <a class="page-scroll" href="#section-5995511548e7c">Events
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5b507a8bffb33">
+                  <a class="page-scroll" href="#section-5b507a8bffb33">Personal Blog
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5995578f41455">
+                  <a class="page-scroll" href="#section-5995578f41455">Gallery
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5bd31258c5497">
+                  <a class="page-scroll" href="#section-5bd31258c5497">Soundcloud
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5b72764ccccdb">
+                  <a class="page-scroll" href="#section-5b72764ccccdb">Others
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="599541ebad50e">
+                  <a class="page-scroll" href="#section-599541ebad50e">Contact
+                  </a>
+                </li>
+                <li class="moduleMenu" data-menu-module-id="5be33aa221a85">
+                  <a class="page-scroll" href="#section-5be33aa221a85">F.A.Q
+                  </a>
+                </li> 
+              </ul>
+              <div class="mailing"> 
+                <form id="widget_subscribe_form" class="widget_subscribe_form"> 
+                  <div class="form-group"> 
+                    <div class="input-group"> 
+                      <span class="input-group-addon">
+                        <i class="fa fa-envelope">
+                        </i>
+                      </span> 
+                      <input type="email" id="widget-subscribe-form-email" name="widget-subscribe-form-email" class="form-control required email" placeholder="Enter your email" aria-required="true" required data-msg-required="This field is required." data-rule-email="true" data-msg-email="Please enter a valid email."  > 
+                      <span class="input-group-btn"> 
+                        <button class="btn btn-primary" type="submit">Subscribe
+                        </button> 
+                      </span> 
+                    </div> 
+                  </div> 
+                  <input type="hidden" name="w" value=""> 
+                  <input type="hidden" name="websiteID" value="609477"> 
+                </form> 
+              </div>
+              <div class="social-icons">
+                <ul class="list-inline">
+                  <li>
+                    <a href="https://twitter.com/MJAHMADEE" target="_blank">
+                      <i class="fa fa-twitter fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://plus.google.com/u/0/110707061559081251646" target="_blank">
+                      <i class="fa fa-google-plus fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="http://www.linkedin.com/in/MJAHMADEE" target="_blank">
+                      <i class="fa fa-linkedin fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/MJAHMADEE" target="_blank">
+                      <i class="fa fa-github fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.youtube.com/channel/UCToJYzD-NO0HbO-9eCzTT-g" target="_blank">
+                      <i class="fa fa-youtube fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://soundcloud.com/mjahmadee" target="_blank">
+                      <i class="fa fa-soundcloud fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://rezome.com/person/mjahmadee" target="_blank">
+                      <i class="fa fa-slack fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://github.com/MJAHMADEE" target="_blank">
+                      <i class="fa fa-gitlab fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://www.researchgate.net/profile/Mohammad_Ahmadi67" target="_blank">
+                      <i class="fa fa-medium fa-2x">
+                      </i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div> 
+          </div> 
+        </div> 
+      </footer>
+    </div> 
+    <div> 
+      <div id="header-phone-content" style="display:none;">
+        <div class="popover_phone_icons">
+          <a dir="ltr" href="tel:+989338733747">
+            <i class="fa fa-phone">
+            </i> +989338733747
+          </a>
+        </div>
+      </div> 
+      <div id="header-address" style="display:none;">
+        <div class="popover_address_icons">
+          <a href="http://maps.google.com?q=Tehran%2C+Amirkabir+University+of+Technology" target="_blank">
+            <i class="fa fa-location-arrow">
+            </i> Tehran, Amirkabir University of Technology
+          </a>
+        </div>
+        <div class="popover_icons">
+          <div class="social-icons">
+            <ul class="list-inline">
+              <li>
+                <a href="https://maps.google.com?q=Tehran%2C+Amirkabir+University+of+Technology" target="_blank">
+                  <img src="//cdn-cms-s.f-static.com/files/images/google_map_white_small.png?v=v6-n4625" style="width: 40px;height: auto;padding-bottom: 7px;">
+                </a>
+              </li>
+              <li>
+                <a href="https://waze.com/ul?ll=35.7040861,51.4091693&navigate=yes" target="_blank">
+                  <img src="//cdn-cms-s.f-static.com/files/images/waze_white_small.png?v=v6-n4625" style="width: 40px;height: auto;padding-bottom: 7px;">
+                </a>
+              </li>
+              <li class="visible-xs-inline-block">
+                <a href="moovit://directions?dest_lat=35.7040861&dest_lon=51.4091693" target="_blank">
+                  <img src="//cdn-cms-s.f-static.com/files/images/moovit_white_small.png?v=v6-n4625" style="width: 40px;height: auto;padding-bottom: 7px;">
+                </a>
+              </li>
+              <li class="visible-sm-inline-block visible-md-inline-block visible-lg-inline-block">
+                <a href="https://moovit.com/?to=Tehran%2C+Amirkabir+University+of+Technology&tll=35.7040861_51.4091693&metroId=1" target="_blank">
+                  <img src="//cdn-cms-s.f-static.com/files/images/moovit_white_small.png?v=v6-n4625" style="width: 40px;height: auto;padding-bottom: 7px;">
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div> 
+      <div id="header-social-content" style="display:none;">
+        <div class="popover_icons">
+          <div class="social-icons">
+            <ul class="list-inline">
+              <li>
+                <a href="https://twitter.com/MJAHMADEE" target="_blank">
+                  <i class="fa fa-twitter fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://plus.google.com/u/0/110707061559081251646" target="_blank">
+                  <i class="fa fa-google-plus fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="http://www.linkedin.com/in/MJAHMADEE" target="_blank">
+                  <i class="fa fa-linkedin fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/MJAHMADEE" target="_blank">
+                  <i class="fa fa-github fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.youtube.com/channel/UCToJYzD-NO0HbO-9eCzTT-g" target="_blank">
+                  <i class="fa fa-youtube fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://soundcloud.com/mjahmadee" target="_blank">
+                  <i class="fa fa-soundcloud fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://rezome.com/person/mjahmadee" target="_blank">
+                  <i class="fa fa-slack fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/MJAHMADEE" target="_blank">
+                  <i class="fa fa-gitlab fa-4x">
+                  </i>
+                </a>
+              </li>
+              <li>
+                <a href="https://www.researchgate.net/profile/Mohammad_Ahmadi67" target="_blank">
+                  <i class="fa fa-medium fa-4x">
+                  </i>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div> 
+      <input type="hidden" id="facebook_url" name="facebook_url" value=""> 
+      <input type="hidden" id="twitter_url" name="twitter_url" value="https://twitter.com/MJAHMADEE"> 
+    </div> 
+    <div id="showSmallAdOnScroll">
+      <a target="_blank" href="https://www.site123.com/?utm_source=user-website&utm_medium=powered-by-ad-en&utm_content=all&utm_campaign=all">This site was built using 
+        <img src="//cdn-cms-s.f-static.com/manager/site123_website/files/logos/brand_files/png-white.png?v=v6-n4625" style="height:21px;width:auto;vertical-align: bottom;margin-bottom: 1px;">
+        <span class="site123link hidden-xs" style="color:yellow;">&nbsp;&nbsp;&nbsp;Create Your Website Today >>
+        </span>
+      </a>
+    </div>
+    <a id="gotoTop" class="gotoTop page-scroll" style="display: none;" href="#page-top">
+      <i class="fa fa-angle-up">
+      </i>
+    </a> 
+    <input type="hidden" id="layoutNUM" name="layoutNUM" value="1"> 
+    <input type="hidden" id="footer_layout" name="footer_layout" value="1"> 
+    <input type="hidden" id="layoutMenuPositionTXT" name="layoutMenuPositionTXT" value="top"> 
+    <input type="hidden" id="versionNUM" name="versionNUM" value="2"> 
+    <input type="hidden" id="w" name="w" value=""> 
+    <input type="hidden" id="websiteID" value="609477"> 
+    <script>        var menuScrollOffset = 60;
+      var packageNUM = 1;
+      var subDomainUrl = 'site123.me';
+      var domain = 'mjahmadee';
+      var languageCode = 'en';
+      var multiLanCode = '';
+      var globalLanguageChildLan          = '';
+      var websiteLanguageCode             = '';
+      var websiteLanguageCountryCode      = '';
+      var websiteLanguageCountryFullCode  = '';
+      var $GLOBALS = {
+        'cdn-user-files' : '//cdn-cms.f-static.com'
+      };
+    </script> 
+    <!-- JavaScript Translations Object -->
+    <script>var translations = {
+        "sent"	  		   : "Sent!",
+        "enterYourQuery" 	   : "Enter your query",
+        "loading"		   : "Loading...",
+        "closeEsc"		   : "Close (Esc)",
+        "previousLeftArrowKey"	   : "Previous (Left arrow key)",
+        "NextRightArrowKey"	   : "Next (Right arrow key)",
+        "of"		   	   : "of",
+        "more"		   	   : "MORE",
+        "cart"		   	   :"Cart",
+        "SearchResult"		   : "Search Result",
+        "ChooseTheAmountDonate"    : "Choose the amount you want to donate",
+        "blogReviewMessage"	   : "Thank you! Your comment will be published after being approved by the admin.",
+        "ConfirmMailingSubscrive"  : "Please Confirm Your Email Address to Complete Your Subscription",
+        "subscribeTellAboutYou"  : "Please tell us about yourself",
+        "imageCouldNotLoaded"      : "<a href=\"%url%\">The image<\/a> could not be loaded.",
+        "searchInputValidation"    : "Please enter a valid search query.",
+        "jqueryValidMsgRequire"    : "This field is required.",
+        "jqueryValidMsgRemote"     : "Please fix this field.",
+        "jqueryValidMsgEmail"      : "Please enter a valid email address.",
+        "jqueryValidMsgUrl"        : "Please enter a valid URL.",
+        "jqueryValidMsgDate"       : "Please enter a valid date.",
+        "jqueryValidMsgDateISO"    : "Please enter a valid date (ISO).",
+        "jqueryValidMsgNumber"     : "Please enter a valid number.",
+        "jqueryValidMsgDigits"     : "Please enter only digits.",
+        "jqueryValidMsgCreditcard" : "Please enter a valid credit card number.",
+        "jqueryValidMsgEqualTo"    : "Please enter the same value again.",
+        "jqueryValidMsgAccept"     : "Please enter a value with a valid extension.",
+        "jqueryValidMsgMaxlength"  : "Please enter no more than {0} characters.",
+        "jqueryValidMsgMinlength"  : "Please enter at least {0} characters.",
+        "jqueryValidMsgRangelength":"Please enter a value between {0} and {1} characters long.",
+        "jqueryValidMsgRange"	   : "Please enter a value between {0} and {1}.",
+        "jqueryValidMsgMax"	   : "Please enter a value less than or equal to {0}.",
+        "jqueryValidMsgMin"	   : "Please enter a value greater than or equal to {0}.",
+        "sending"		   : "Sending",
+        "firstName"		   : "First Name",
+        "lastName"		   : "Last Name",
+        "phone"			   : "Phone",
+        "emailAddress"		   : "Email Address",
+        "fileUpload"		   : "File Upload",
+        "send"			   : "Send",
+        "search"		   : "Search",
+        "productvalidatorPopover"  : "Required field",
+        "SpecialRequest" 	   : "Special Request",
+        "restaurantReservation"    : "Restaurant Reservation",
+        "ThankYouAuto"		   : "Order completed, thank you for your order!",
+        "ThankYouManual"	   : "Order is not completed yet, we will contact you soon",
+        "Ok"			   : "OK",
+        "OrderNumber"		   : "Order Number",
+        "Date"			   : "Date",
+        "Hour"			   : "Hour",
+        "TableSize"		   : "Table Size",
+        "NoAvailableTime"	   : "Sorry, there is no available time for this date, please try another date.",
+        "message"	           : "Message",
+        "ThankYou"	           : "Thank you",
+        "error_title"	   	   : "Error",
+        "error_body"	   	   : "Oops something went wrong",
+        "limit20Tickets"	   : "Limit of 20 Tickets",
+        "registrationClosed"       : "Registration is closed. Please contact us for more information.",
+        "Sunday"		   : "Sunday",
+        "Monday"		   : "Monday",
+        "Tuesday"		   : "Tuesday",
+        "Wednesday"		   : "Wednesday",
+        "Thursday"		   : "Thursday",
+        "Friday"		   : "Friday",
+        "Saturday"		   : "Saturday",
+        "foodDeliverybootBoxTitle" : "Order Window",
+        "addToCart"                : "Add To Cart",
+        "save"                	   : "Save",       
+        "ThankYouAfterSubmmit" 	   : "Thank you for contacting us. We have received your message and will respond to you soon.",    
+        "country" 					: "Country",
+        "productQuntityLimit" 		: "The product is limited to a maximum of {{units_limitation}} units."	};
+    </script>
+    <!-- JavaScript Translations Object -->
+    <!-- Minimize JS files -->
+    <script src="//cdn-cms-s.f-static.com/versions/2/js/minimize.js?v=v6-n4625" crossorigin="anonymous">
+    </script> 
+    <!-- Add Global Google Analytics Code --> 
+    <script>            (function(i,s,o,g,r,a,m){
+        i['GoogleAnalyticsObject']=r;
+        i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)}
+          ,i[r].l=1*new Date();
+        a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];
+        a.async=1;
+        a.src=g;
+        m.parentNode.insertBefore(a,m)
+      }
+                        )(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', "UA-129003094-1", 'auto');
+      ga('send', 'pageview');
+    </script>
+    <!-- End Global Google Analytics Code -->
+  </body>
+</html>
